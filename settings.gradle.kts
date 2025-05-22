@@ -1,0 +1,1 @@
+rootProject.name = "wiremock-oss-auth-token-extension-demo"
